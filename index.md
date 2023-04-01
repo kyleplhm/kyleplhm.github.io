@@ -17,4 +17,7 @@ Please contact me if you have any questions!
 # Data Analytics Projects:
 
 ### [1. Detecting Real-Time Regime Changes in Power Output in Support of a Large North-American Utilities Company](https://github.com/kyleplhm/Regime-Change)
-* Bullet 1
+* Personal contribution in support of a larger Cal Poly MSBA capstone project in partnership with  a large North American utilities company.
+* Utilizes the R package "onlineBcp" for real-time Bayesian probability-based detection of unusually large shifts in time series data of power output.
+* Based on a historical data extract for a single constraint with geographical information removed for confidentiality. Constraints are limitations in power grid due to factors like transmission capacity, generation limits, network topology, and regulations; constraint flow refers to electricity flow through these constrained areas.
+* Detecting large changes in constraint flow will help the utilities company sound an alarm and proactively maintain grid stability during a regime change.
