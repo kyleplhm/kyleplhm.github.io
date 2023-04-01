@@ -13,3 +13,8 @@ One of my strengths is my ability to communicate technical information to non-te
 In this portfolio, you'll find examples of data analytics projects I've worked on. Each project showcases my ability to analyze data, develop insights, and present my findings in a compelling way.
 
 Please contact me if you have any questions!
+
+# Data Analytics Projects
+
+## Detecting Real-time Regime Changes in Power Output in Support of a Large North-American Utilities Company
+* Bullet 1
