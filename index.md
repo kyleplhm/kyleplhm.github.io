@@ -18,7 +18,7 @@ Please contact me if you have any questions!
 # Data Analytics Projects:
 
 ### [1. Proactive Constraint Flow Management: Real-time Detection and Analysis for Enhanced Power Grid Stability](https://github.com/kyleplhm/Regime-Change)
-* Personal contribution in support of a larger Cal Poly MSBA capstone project in partnership with  a large North American utilities company.
-* Utilizes the R package "onlineBcp" for real-time Bayesian probability-based detection of unusually large shifts in time series data of power output.
-* Based on a historical data extract for a single constraint with geographical information removed for confidentiality. Constraints are limitations in power grid due to factors like transmission capacity, generation limits, network topology, and regulations; constraint flow refers to electricity flow through these constrained areas.
-* Detecting large changes in constraint flow will help the utilities company sound an alarm and proactively maintain grid stability during a regime change.
+* Individual contribution to a collaborative Cal Poly MSBA capstone project, partnering with a prominent North American utilities company.
+* Employs the "onlineBcp" R package for real-time detection of significant shifts in power output time series data using Bayesian probabilities.
+* Utilizes anonymized historical data for a single constraint, illustrating constraints as power grid limitations influenced by factors such as transmission capacity, generation limits, network topology, and regulations; constraint flow represents the electricity flow within these constrained segments.
+* Identifying substantial changes in constraint flow enables utilities companies to proactively maintain grid stability during regime changes by alerting them in advance.
