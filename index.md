@@ -14,7 +14,7 @@ In this portfolio, you'll find examples of data analytics projects I've worked o
 
 Please contact me if you have any questions!
 
-# Data Analytics Projects
+# Data Analytics Projects:
 
-## Detecting Real-time Regime Changes in Power Output in Support of a Large North-American Utilities Company
+### [1. Detecting Real-Time Regime Changes in Power Output in Support of a Large North-American Utilities Company](https://github.com/kyleplhm/Regime-Change)
 * Bullet 1
