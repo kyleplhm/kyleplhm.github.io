@@ -1,5 +1,4 @@
-# Kyle Pelham
-Data Analytics Portfolio
+# Kyle Pelham - Data Analytics Portfolio
 
 ## About Me
 ![Kyle Picture](https://github.com/kyleplhm/kyleplhm.github.io/blob/main/kyleheadshot.jpg?raw=true)
