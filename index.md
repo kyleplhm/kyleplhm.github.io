@@ -63,6 +63,8 @@ Analysis of customer information, using a broad range of tools and techniques in
 * **GSB 545. Advanced Machine Learning for Business Analytics:**
 Use of computers for advanced machine learning in business analytics. Topics include boosting, ensemble learning, Bayesian methods, and various types of neural networks.
 
+* **GSB 521. Cloud Services & Applications for Business Analytics:**
+Apply cloud resources for business analytics. Identify business benefits of cloud computing, storage, networking, data management and security. Use web services to analyze big data including query, statistical analysis, machine learning and visualization.
+
 * **GSB 570. Financial Time-Series:**
 Analysis of time-series to evaluate the risk and return of the main products of capital markets.
-
