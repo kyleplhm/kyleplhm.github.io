@@ -22,3 +22,21 @@ Please contact me if you have any questions!
 * Employs the "onlineBcp" R package for real-time detection of significant shifts in power output time series data using Bayesian probabilities.
 * Utilizes anonymized historical data for a single constraint, illustrating constraints as power grid limitations influenced by factors such as transmission capacity, generation limits, network topology, and regulations; constraint flow represents the electricity flow within these constrained segments.
 * Identifying substantial changes in constraint flow enables utilities companies to proactively maintain grid stability during regime changes by alerting them in advance.
+
+### [2. Proactive Constraint Flow Management: Real-time Detection and Analysis for Enhanced Power Grid Stability](https://github.com/kyleplhm/Regime-Change)
+* Individual contribution to a collaborative Cal Poly MSBA capstone project, partnering with a prominent North American utilities company.
+* Employs the "onlineBcp" R package for real-time detection of significant shifts in power output time series data using Bayesian probabilities.
+* Utilizes anonymized historical data for a single constraint, illustrating constraints as power grid limitations influenced by factors such as transmission capacity, generation limits, network topology, and regulations; constraint flow represents the electricity flow within these constrained segments.
+* Identifying substantial change
+
+### [3. Proactive Constraint Flow Management: Real-time Detection and Analysis for Enhanced Power Grid Stability](https://github.com/kyleplhm/Regime-Change)
+* Individual contribution to a collaborative Cal Poly MSBA capstone project, partnering with a prominent North American utilities company.
+* Employs the "onlineBcp" R package for real-time detection of significant shifts in power output time series data using Bayesian probabilities.
+* Utilizes anonymized historical data for a single constraint, illustrating constraints as power grid limitations influenced by factors such as transmission capacity, generation limits, network topology, and regulations; constraint flow represents the electricity flow within these constrained segments.
+* Identifying substantial change
+
+### [4. Proactive Constraint Flow Management: Real-time Detection and Analysis for Enhanced Power Grid Stability](https://github.com/kyleplhm/Regime-Change)
+* Individual contribution to a collaborative Cal Poly MSBA capstone project, partnering with a prominent North American utilities company.
+* Employs the "onlineBcp" R package for real-time detection of significant shifts in power output time series data using Bayesian probabilities.
+* Utilizes anonymized historical data for a single constraint, illustrating constraints as power grid limitations influenced by factors such as transmission capacity, generation limits, network topology, and regulations; constraint flow represents the electricity flow within these constrained segments.
+* Identifying substantial change
