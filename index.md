@@ -13,6 +13,7 @@ In this portfolio, you'll find examples of data analytics projects I've worked o
 
 Please contact me if you have any questions!
 * *kyleplhm@gmail.com*
+* *[Linked In](https://www.linkedin.com/in/kyle-pelham/)*
 
 # Data Analytics Projects:
 
