@@ -22,7 +22,7 @@ Please contact me if you have any questions!
 * Utilizes anonymized historical data for a single constraint, illustrating constraints as power grid limitations influenced by factors such as transmission capacity, generation limits, network topology, and regulations; constraint flow represents the electricity flow within these constrained segments.
 * Identifying substantial changes in constraint flow enables utilities companies to proactively maintain grid stability during regime changes by alerting them in advance.
 
-### [2. Chipotle Customer Segmentation: A K-means Clustering Approach to Survey Analysis](https://github.com/kyleplhm/Chipotle-Cluster-Analysis))
+### [2. Chipotle Customer Segmentation: A K-means Clustering Approach to Survey Analysis](https://github.com/kyleplhm/Chipotle-Cluster-Analysis)
 * Survey data cleanup: Conduct general preprocessing of survey responses to ensure data quality.
 * Dimensionality reduction: Use Sci-kit Learn's PCA (Principal Component Analysis) to reduce survey dimensions while preserving important information.
 * K-means clustering: Perform k-means clustering on the transformed data using Sci-kit Learn to identify distinct customer segments.
@@ -30,11 +30,10 @@ Please contact me if you have any questions!
 * Exploratory Data Analysis (EDA): Investigate each cluster's unique characteristics and differences to better understand customer preferences and behaviors.
 * Marketing strategy suggestions: Leverage insights from the cluster analysis to propose tailored marketing strategies for each customer segment.tilizes Sci-kit Learn package to reduce survey dimensions with Principle Component Analysis and perform k-means clustering on the transformed data.
 
-### [3. Placeholder](https://github.com/kyleplhm/Regime-Change)
-* Individual contribution to a collaborative Cal Poly MSBA capstone project, partnering with a prominent North American utilities company.
-* Employs the "onlineBcp" R package for real-time detection of significant shifts in power output time series data using Bayesian probabilities.
-* Utilizes anonymized historical data for a single constraint, illustrating constraints as power grid limitations influenced by factors such as transmission capacity, generation limits, network topology, and regulations; constraint flow represents the electricity flow within these constrained segments.
-* Identifying substantial change
+### [3. Exploring the Relationship Between World Happiness and the Big Mac Index](https://github.com/kyleplhm/BigMacIndex-Happiness)
+* Consolidating and processing seven years of Big Mac Index and World Happiness data into a unified dataframe for analysis
+* Conducting an exploratory data analysis to examine the potential correlation between the Big Mac Index and World Happiness scores
+* Utilizing Pearson's correlation coefficient to quantitatively assess the relationship between the two indices
 
 ### [4. Placeholder](https://github.com/kyleplhm/Regime-Change)
 * Individual contribution to a collaborative Cal Poly MSBA capstone project, partnering with a prominent North American utilities company.
